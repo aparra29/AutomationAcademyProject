@@ -3,16 +3,16 @@ This is a Java-based mobile automation framework for testing the WebdriverIO Nat
 # Setup Instructions
 Clone the repository 
 
-´´´
+```
 git clone https://github.com/aparra29/AutomationAcademyProject.git
-´´´
+```
 
 Navigate to the project directory
-´´´
+```
 cd AutomationAcademyProject
-´´´
+```
 
 Install the necessary dependencies
-´´´
+```
 nvm clean install
-´´´
+```
